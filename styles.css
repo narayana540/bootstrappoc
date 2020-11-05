@@ -1,0 +1,150 @@
+.background-img{
+    width:100%;
+    height:auto;
+    background-image: url(./assets/images/banner.jpg);
+    background-size: cover;
+}
+.navbar-brand img{
+    height:40px;
+    padding-left: 30px;
+}
+.navbar-toggler{
+    display: block !important;
+}
+
+.promos{
+    color:#fff;
+    text-align:center;
+    padding-bottom:200px;
+}
+.promo-title{
+    font-size:30px;
+    margin-top:50px;
+}
+.promo-title-1{
+    font-size:20px;
+    margin-top:40px;
+}
+.promos button{
+    color: #fff;
+    background-color: #50baa4;
+    border-color: #50baa4;
+	border-radius:30px;
+	font-size:20px;
+	text-transform:uppercase;
+	padding:10px 30px;
+
+}
+.card-body{
+    padding:0px;
+}
+.jumbotron h3{
+    font-size: 36px;
+    font-weight: 600;
+    color: #000;
+    text-transform: uppercase;
+}
+.btn-outline-success {
+    color: #50baa4;
+    background-color: #fff;
+    border-color: 2px solid #50baa4;
+    border-radius: 33px;
+    font-size: 20px;
+    padding: 10px 50px;
+    text-transform: uppercase;
+}
+.btn1{
+    margin-left: 35px;
+}
+.photos-section-title{
+    text-transform: uppercase;
+    text-align:center;
+    font-size: 20px;
+}
+.photos-section .col-md-3{
+    padding-left:0px;
+    padding-right:0px;
+}
+.btn2{
+    text-align: center;
+    margin: 40px;
+}
+.mid-section{
+    background-image: url('assets/images/background.jpg');
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top:70px;
+    padding-bottom:40px;
+}
+.mid-section h1{
+    font-size:3rem;
+    color:#fff;
+    text-transform: uppercase;
+}
+.mid-section .mid-section-title{
+    font-size:30px;
+    color:#fff;
+    text-transform: uppercase;
+}
+.btn-outline-secondary{
+    border-color: #fff;
+    color:#fff;
+    border-radius: 33px;
+    font-size: 20px;
+    padding: 10px 30px; 
+    text-transform: uppercase; 
+}
+.btn-3{
+    margin-top: 50px;
+}
+footer{
+    background-color: #1E2832;
+}
+.footer-heading{
+    color:#fff;
+    text-transform: uppercase;
+    font-weight: 500;
+    padding-top:100px;
+}
+.footer-title{
+    color:#fff;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+footer hr{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    border: 0;
+    border-top: 1px solid #333d47;
+}
+.form-control{
+    background-color: #29333C;
+    color:#5C676F;
+    border:1px solid #29333c;
+    line-height: 30px;;
+}
+.btn-success{
+    border-radius: 33px;
+    background-color: #50BAA4;
+    color:#fff;
+    font-size: 20px;
+    padding: 10px 30px;
+    text-transform: uppercase; 
+}
+
+.social .fa {
+    font-size:30px;
+    color:#A6AAAE;
+    padding: 15px;
+}
+.copy-right{
+    color:#5D6772;
+    text-transform: uppercase;
+    padding-top:20px;
+    padding-bottom:30px;
+
+}
+
+   
